@@ -51,6 +51,6 @@
 
 ## 📦 Installation (For Developers)
 ```bash
-git clone <repo-url>
+git clone https://github.com/Arishtcoder/Protfoliyo.git
 cd portfolio
 open index.html
